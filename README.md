@@ -1,6 +1,7 @@
 # Assembly-Code
 
 ## Setup of Irwin Library
+- First, open Google and type irvine32 library.
 
 
 
