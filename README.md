@@ -4,12 +4,11 @@
 - First, open Google and type irvine32 library.
 
 ![image1](Images/image1.png)
-![image1](images/image 1.png)
 
 - Click on the first link.
 - click on code button and download ZIP file.
 
-![Screenshot 2024-05-01 162255.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/28ec497c-83dd-4fd2-b320-f5ec3343a26d/38395dc4-35a5-4811-aba3-09f7a4aad7cc/Screenshot_2024-05-01_162255.png)
+![image1](Images/image2.png)
 
 - You see the file and extract the file.
 
