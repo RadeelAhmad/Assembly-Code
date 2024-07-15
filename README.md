@@ -64,7 +64,7 @@
 - Write the code of `irvine32 library`
 - here is the example of using irvine32 library
 
-```jsx
+```assembly
 ; Include Irvine32 library
 include Irvine32.inc
 
@@ -92,8 +92,8 @@ main ENDP
 END main
 ```
 
-You see that it will be successful run the code.
+**You see that it will be successful run the code.**
 
 ![image1](Images/image13.png)
 
-Utilize Irwin Library's functions to format and display data to the user.
+
