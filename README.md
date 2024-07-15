@@ -42,7 +42,7 @@
 
 ![image1](Images/image9.png)
 
-Just like that write the `irvine32.lib` and click on OK button
+- Just like that write the `irvine32.lib` and click on OK button
 
 ![image1](Images/image10.png)
 
