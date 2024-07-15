@@ -3,7 +3,7 @@
 ## Setup of Irwin Library
 - First, open Google and type irvine32 library.
 
-![image1](Images/image-1.png)
+![image1](Images/image1.png)
 ![image1](images/image 1.png)
 
 - Click on the first link.
