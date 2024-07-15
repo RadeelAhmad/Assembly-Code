@@ -6,7 +6,7 @@
 ![image1](Images/image1.png)
 
 - Click on the first link.
-- click on code button and download ZIP file.
+- Click on code button and download ZIP file.
 
 ![image1](Images/image2.png)
 
@@ -31,14 +31,14 @@
 ![image1](Images/image7.png)
 
 - Click On linker
-- select the additional directories and paste the address of folder.
+- Select the additional directories and paste the address of folder.
 
 ![image1](Images/image8.png)
 
 - Then select the input
-- click on additional dependencies
-- write the `irvine32.lib`
-- click on apply and then OK botton
+- Click on additional dependencies
+- Write the `irvine32.lib`
+- Click on apply and then OK botton
 
 ![image1](Images/image9.png)
 
@@ -46,23 +46,23 @@
 
 ![image1](Images/image10.png)
 
-- select the `.asm` file
-- click on the **properties**
+- Select the `.asm` file
+- Click on the **properties**
 
 ![image1](Images/image11.png)
 
-- select the Microsoft macro assembler
-- click on General
-- select the include paths
-- and paste the address of file
-- click on apply and then ok
+- Select the Microsoft macro assembler
+- Click on General
+- Select the include paths
+- And paste the address of file
+- Click on apply and then ok
 
 ![image1](Images/image12.png)
 
 ## After setup library
 
 - Write the code of `irvine32 library`
-- here is the example of using irvine32 library
+- Here is the example of using irvine32 library
 
 ```assembly
 ; Include Irvine32 library
