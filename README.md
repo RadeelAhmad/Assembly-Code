@@ -4,7 +4,7 @@
 - First, open Google and type irvine32 library.
 
 ![image1](Images/image 1.png)
-
+![image1](images/image1.png)
 
 - Click on the first link.
 - click on code button and download ZIP file.
