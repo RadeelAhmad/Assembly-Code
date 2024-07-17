@@ -1,5 +1,8 @@
 # Assembly-Code
 
+## HOW TO RUN SCRIPTS
+
+
 ## Setup of Irwin Library
 - First, open Google and type irvine32 library.
 
