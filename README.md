@@ -11,6 +11,22 @@
 
 ![image1](Images/image21.png)
 
+- Now click the `masm`
+
+![image1](Images/image22.png)
+
+- Right-click in the Project section and select New Item from the Add section.
+
+![image1](Images/image23.png)
+
+- Make sure to use .asm extension.
+
+![image1](Images/image24.png)
+
+- After this you'll have your code editor ready
+
+![image1](Images/image24.png)
+
 ## Setup of Irwin Library
 - First, open Google and type irvine32 library.
 
