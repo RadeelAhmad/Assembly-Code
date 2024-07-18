@@ -7,7 +7,7 @@
 
 ![image1](Images/image20.png)
 
-- In the Project section, first right click then from the Build Dependencies section choose Build Customization.
+- In the Project section, right-click first, then select Build Customization from the Build Dependencies section.
 
 ![image1](Images/image21.png)
 
