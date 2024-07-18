@@ -25,7 +25,7 @@
 
 - After this you'll have your code editor ready
 
-![image1](Images/image24.png)
+![image1](Images/image25.png)
 
 ## Setup of Irwin Library
 - First, open Google and type irvine32 library.
