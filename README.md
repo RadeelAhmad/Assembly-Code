@@ -1,7 +1,15 @@
 # Assembly-Code
 
 ## HOW TO RUN SCRIPTS
+- Open up your Visual Studio
+- Creat New Project
+- Section choose C++ and then choose Empty Project.
 
+![image1](Images/image20.png)
+
+- In the Project section, first right click then from the Build Dependencies section choose Build Customization.
+
+![image1](Images/image21.png)
 
 ## Setup of Irwin Library
 - First, open Google and type irvine32 library.
